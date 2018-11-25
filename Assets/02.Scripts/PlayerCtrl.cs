@@ -188,3 +188,5 @@ public class PlayerCtrl : MonoBehaviour
         this.transform.position = originPos.transform.position;
     }
 }
+
+//TEST create by kmg
