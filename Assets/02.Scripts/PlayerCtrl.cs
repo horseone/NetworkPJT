@@ -90,6 +90,8 @@ public class PlayerCtrl : MonoBehaviour
 
     }
 
+    //TEST asdfdsaf
+
     private void InputMouse()
     {
         //상하 회전
